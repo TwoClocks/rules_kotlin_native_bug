@@ -1,0 +1,4 @@
+/bazel-*
+.envrc
+.idea
+.direnv/
